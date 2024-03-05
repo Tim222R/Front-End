@@ -1,0 +1,14 @@
+body {
+    
+    background-color: lightblue;
+    font-family: Arial, sans-serif ;
+    text-align: center ;
+         
+}
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid #974545;
+    border-radius: 10px;
+}
